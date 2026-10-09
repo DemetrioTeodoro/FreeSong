@@ -1,0 +1,43 @@
+# ---------------------------------------------------------------
+# FreeSong — arquivos que não vão para o repositório
+# ---------------------------------------------------------------
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Kotlin
+.kotlin/
+
+# Configuração local (caminho do Android SDK de cada máquina)
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Saídas de build
+*.apk
+*.aab
+*.ap_
+*.dex
+output-metadata.json
+
+# Chaves de assinatura — NUNCA versionar
+*.jks
+*.keystore
+keystore.properties
+
+# Logs e temporários
+*.log
+*.tmp
+*.hprof
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
