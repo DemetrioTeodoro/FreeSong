@@ -1,0 +1,11 @@
+# Normaliza finais de linha no repositório
+* text=auto eol=lf
+
+# Scripts do Windows precisam de CRLF
+*.bat text eol=crlf
+
+# Binários
+*.png binary
+*.jpg binary
+*.jar binary
+*.apk binary
