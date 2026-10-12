@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">FreeSong</string>
+    <string name="library">Biblioteca</string>
+    <string name="search_hint">Buscar música, artista ou álbum</string>
+    <string name="loading">Carregando músicas…</string>
+    <string name="empty">Nenhuma música encontrada no aparelho</string>
+    <string name="no_results">Nada encontrado</string>
+    <string name="need_permission">Toque aqui para permitir o acesso às suas músicas</string>
+    <string name="unknown_artist">Artista desconhecido</string>
+    <string name="play_pause">Tocar ou pausar</string>
+    <string name="next">Próxima</string>
+    <string name="previous">Anterior</string>
+    <string name="shuffle">Aleatório</string>
+    <string name="repeat">Repetir</string>
+    <plurals name="song_count">
+        <item quantity="one">%d música</item>
+        <item quantity="other">%d músicas</item>
+    </plurals>
+    <string name="folders">Pastas</string>
+    <string name="folders_title">Mostrar músicas destas pastas</string>
+    <string name="folders_empty">Nenhuma pasta com músicas encontrada</string>
+    <string name="duplicates">Músicas duplicadas</string>
+    <string name="duplicates_none">Nenhuma música duplicada. Tudo limpo!</string>
+    <string name="duplicates_summary">%1$s com cópias · %2$s em cópias</string>
+    <string name="shown_in_list">na lista</string>
+    <string name="delete_from_internal">Apagar do interno</string>
+    <string name="delete_from_sd">Apagar do cartão SD</string>
+    <string name="back">Voltar</string>
+    <string name="delete_songs">Excluir do aparelho</string>
+    <string name="delete_songs_q">Excluir %1$s do aparelho?\n\nOs arquivos serão apagados definitivamente.</string>
+    <string name="delete_songs_with_copies_q">Excluir %1$s do aparelho?\n\nIsso apaga %2$d arquivos, incluindo as cópias duplicadas. Os arquivos serão apagados definitivamente.</string>
+    <string name="delete_copies_q">Excluir %1$d arquivos (%2$s)?\n\nOs arquivos serão apagados definitivamente.</string>
+    <string name="delete_whole_song_warning">\n\nAtenção: em %d música(s) você marcou todas as cópias. Essas músicas vão sumir por completo.</string>
+    <string name="deleted_n">%d arquivo(s) excluído(s)</string>
+    <plurals name="delete_copies_button">
+        <item quantity="one">Excluir %1$d cópia · libera %2$s</item>
+        <item quantity="other">Excluir %1$d cópias · libera %2$s</item>
+    </plurals>
+    <string name="all">Todas</string>
+    <string name="new_category">Nova</string>
+    <string name="new_category_title">Nova categoria</string>
+    <string name="category_name_hint">Ex.: Rock, Anos 80, Academia</string>
+    <string name="rename">Renomear</string>
+    <string name="delete">Excluir</string>
+    <string name="delete_category_q">Excluir a categoria \"%s\"? As músicas continuam no aparelho.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="create">Criar</string>
+    <string name="categorize">Categorizar</string>
+    <string name="categorize_title">Adicionar às categorias</string>
+    <string name="select_all">Selecionar todas</string>
+    <string name="close_selection">Sair da seleção</string>
+    <string name="play_all">Tocar</string>
+    <string name="shuffle_all">Aleatório</string>
+    <string name="empty_category">Nenhuma música nesta categoria ainda.\n\nSegure uma música na aba Todas para selecioná-la e toque em Categorizar.</string>
+    <plurals name="selected_count">
+        <item quantity="one">%d selecionada</item>
+        <item quantity="other">%d selecionadas</item>
+    </plurals>
+</resources>
