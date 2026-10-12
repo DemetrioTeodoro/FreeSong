@@ -1,0 +1,13 @@
+<resources>
+    <color name="bg">#0D0D12</color>
+    <color name="bg_top">#1E1533</color>
+    <color name="surface">#17171F</color>
+    <color name="surface_high">#23232E</color>
+    <color name="accent">#A78BFA</color>
+    <color name="accent_deep">#7C3AED</color>
+    <color name="text">#F5F5F7</color>
+    <color name="text_secondary">#9A9AAE</color>
+    <color name="icon_inactive">#6E6E82</color>
+    <color name="danger">#E5484D</color>
+    <color name="badge">#2E2650</color>
+</resources>
